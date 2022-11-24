@@ -1,0 +1,7 @@
+name: RankSystem
+version: '${project.version}'
+main: de.tobi.ranksystem.main.Main
+
+commands:
+  rank:
+
